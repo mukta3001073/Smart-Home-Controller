@@ -62,7 +62,7 @@ The ESP32 connects to a Wi-Fi network and communicates with an MQTT broker to re
 
 **MQTT Port:** 1883
 
-**MQTT ClientID** mukta_esp32_test01
+**MQTT ClientID:** mukta_esp32_test01
 
 **MQTT Topic:** `cse08/smarthome/command`
 
