@@ -94,7 +94,7 @@ The code uses register-level GPIO input reading and MQTT communication through t
 
 - **Wokwi Simulation:** https://wokwi.com/projects/479211960344269825
 - **MQTT Client:** https://www.hivemq.com/demos/websocket-client/
-- **Simulation Video:** PASTE\_YOUR\_GOOGLE\_DRIVE\_VIDEO\_LINK
+- **Simulation Video:** https://drive.google.com/file/d/1wjKq73c-OcqxF-7VIhQGYnGtJG4dM9Hf/view?usp=drive_link
 
 ## 📚 Registers and Functions Used
 
